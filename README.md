@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ANGELOANTU7
-- 👀 I’m interested in Robotics
+- 👀 I’m interested in Robotics and Computer Science
 - 🌱 I’m currently learning Btech CS
-- 💞️ I’m looking to collaborate on making hacking softwares
+- 💞️ I’m looking to collaborate on making useful softwares
 - 📫 How to reach me - email me (angeloantu@gmail.com)
 
 <!---
